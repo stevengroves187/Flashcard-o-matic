@@ -29,7 +29,7 @@ function Study() {
     const cardTitle = `Card ${cardNumber} of ${deck.cards.length}`;
 
     return deck.cards.length <= 2 ? (
-        <main className='container study-page'>
+        <main className='container'>
         <nav aria-label='breadcrumb'>
             <ol className='breadcrumb'>
                 <li className='breadcrumb-item'>
@@ -54,7 +54,7 @@ function Study() {
 			</Link>
     </main> 
     ) : (
-      <main className='container study-page'>
+      <main className='container'>
         <nav aria-label='breadcrumb'>
             <ol className='breadcrumb'>
                 <li className='breadcrumb-item'>
