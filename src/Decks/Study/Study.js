@@ -46,7 +46,7 @@ function Study() {
             </ol>
         </nav>
         <h1>Study: {deck.name}</h1>
-		<h3 className="text-danger">Not enough cards.</h3>
+		<h3>Not enough cards.</h3>
 		<p>	You need at least 3 cards to study. There are {deck.cards.length} cards in this
 				deck.</p>
 			<Link to={`/decks/${deckId}/cards/new`} className='btn btn-primary'>
