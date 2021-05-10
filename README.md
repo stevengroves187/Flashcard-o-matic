@@ -77,7 +77,6 @@
 
 ![Project Screenshot](./flashcard-screenshot.jpg?raw=true "Flashcard-o-matic")
 
-This is a pomodoro timer with customizable focus and break periods. The aim of this app is to help you focus on any task you are working on. This app is inspired by Pomodoro Technique which is a time management method developed by Francesco Cirillo. 
 
 
 ### Built With
