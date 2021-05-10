@@ -1,13 +1,13 @@
 <!--
 *** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the Flashcards and create a pull request
+*** that would make this better, please fork the Flashcard-o-matic and create a pull request
 *** or simply open an issue with the tag "enhancement".
 *** Thanks again! Now go create something AMAZING! :D
 ***
 ***
 ***
 *** To avoid retyping too much info. Do a search and replace for the following:
-*** stevengroves187, Flashcards, twitter_handle, stevengroves187@gmail.com, Pomodoro Timer, project_description
+*** stevengroves187, Flashcard-o-matic, twitter_handle, stevengroves187@gmail.com, Pomodoro Timer, project_description
 -->
 
 
@@ -33,14 +33,14 @@
 
   <p align="center">
     <br />
-    <a href="https://github.com/stevengroves187/Flashcards"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/stevengroves187/Flashcard-o-matic"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/stevengroves187/Flashcards">View Demo</a>
+    <a href="https://github.com/stevengroves187/Flashcard-o-matic">View Demo</a>
     ·
-    <a href="https://github.com/stevengroves187/Flashcards/issues">Bugs</a>
+    <a href="https://github.com/stevengroves187/Flashcard-o-matic/issues">Bugs</a>
     ·
-    <a href="https://github.com/stevengroves187/Flashcards/issues">Request Feature</a>
+    <a href="https://github.com/stevengroves187/Flashcard-o-matic/issues">Request Feature</a>
   </p>
 </p>
 
@@ -107,9 +107,9 @@ To get a local copy up and running follow these simple steps.
 
 ### Installation
 
-1. Clone the Flashcards
+1. Clone the Flashcard-o-matic
    ```sh
-   git clone https://github.com/stevengroves187/pomodorocode.git
+   git clone https://github.com/stevengroves187/Flashcard-o-Matic.git
    ```
 2. Install NPM packages
    ```sh
@@ -137,7 +137,7 @@ The study button takes you to a study page that allows you to flip through the d
 Through building the app, I discovered the usage and implementation of routes and links to modularize and allow for direct url functionality.
 I would like to restyle the UI for the app in the future for better user experience.
 
-See the [open issues](https://github.com/stevengroves187/Flashcards/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/stevengroves187/Flashcard-o-matic/issues) for a list of proposed features (and known issues).
 
 
 <!-- LICENSE -->
@@ -152,7 +152,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Steven Groves - stevengroves187@gmail.com
 
-Project Link: [https://github.com/stevengroves187/Flashcards](https://github.com/stevengroves187/Flashcards)
+Project Link: [https://github.com/stevengroves187/Flashcard-o-matic](https://github.com/stevengroves187/Flashcard-o-matic)
 
 
 
@@ -160,15 +160,15 @@ Project Link: [https://github.com/stevengroves187/Flashcards](https://github.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/stevengroves187/Flashcards.svg?style=for-the-badge
-[contributors-url]: https://github.com/stevengroves187/Flashcards/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/stevengroves187/Flashcards.svg?style=for-the-badge
-[forks-url]: https://github.com/stevengroves187/Flashcards/network/members
-[stars-shield]: https://img.shields.io/github/stars/stevengroves187/Flashcards.svg?style=for-the-badge
-[stars-url]: https://github.com/stevengroves187/Flashcards/stargazers
-[issues-shield]: https://img.shields.io/github/issues/stevengroves187/Flashcards.svg?style=for-the-badge
-[issues-url]: https://github.com/stevengroves187/Flashcards/issues
-[license-shield]: https://img.shields.io/github/license/stevengroves187/Flashcards.svg?style=for-the-badge
-[license-url]: https://github.com/stevengroves187/Flashcards/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/stevengroves187/Flashcard-o-matic.svg?style=for-the-badge
+[contributors-url]: https://github.com/stevengroves187/Flashcard-o-matic/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/stevengroves187/Flashcard-o-matic.svg?style=for-the-badge
+[forks-url]: https://github.com/stevengroves187/Flashcard-o-matic/network/members
+[stars-shield]: https://img.shields.io/github/stars/stevengroves187/Flashcard-o-matic.svg?style=for-the-badge
+[stars-url]: https://github.com/stevengroves187/Flashcard-o-matic/stargazers
+[issues-shield]: https://img.shields.io/github/issues/stevengroves187/Flashcard-o-matic.svg?style=for-the-badge
+[issues-url]: https://github.com/stevengroves187/Flashcard-o-matic/issues
+[license-shield]: https://img.shields.io/github/license/stevengroves187/Flashcard-o-matic.svg?style=for-the-badge
+[license-url]: https://github.com/stevengroves187/Flashcard-o-matic/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/stevengroves187
