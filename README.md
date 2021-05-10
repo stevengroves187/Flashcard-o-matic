@@ -29,7 +29,7 @@
 
 
 
-  <h3 align="center">Flashcard-o-maticr</h3>
+  <h3 align="center">Flashcard-o-matic</h3>
 
   <p align="center">
     <br />
