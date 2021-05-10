@@ -83,7 +83,7 @@
 
 * <a href="https://reactjs.org/">React</a>
   <ul>
-  <li> Utilizing React components and states</li>
+  <li> Utilizing React components, states, hooks, and routes</li>
   </ul>
 * <a href="https://getbootstrap.com/">Bootstrap</a>
   <ul>
@@ -121,17 +121,21 @@ To get a local copy up and running follow these simple steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Set your preferred focus time and your break time, then just hit the play button! Pause or stop whenever you feel it's necessary. An audio cue will play when it is time to switch between focus and break periods. 
+Create and edit your own deck of flashcards to study with.
 
-Focus and break duration changes are disabled during the periods. Stop the timer to reset.
+Create a new deck with a name and description then add as many double-sided flashcards as you need (minimum of 3 to study from)
+
+Edit functionality for individual cards or decks through the deck page.
+
+The study button takes you to a study page that allows you to flip through the deck's flashcards.
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Through building the app, I discovered the usage and implementation of useInterval and integration of timers and timing functionality.
-I would like to expand the app to have task creation and selection functionality to add more specified focus for users.
+Through building the app, I discovered the usage and implementation of routes and links to modularize and allow for direct url functionality.
+I would like to restyle the UI for the app in the future for better user experience.
 
 See the [open issues](https://github.com/stevengroves187/Flashcards/issues) for a list of proposed features (and known issues).
 
